@@ -104,4 +104,11 @@ html {
   .container .body-cal {
     width: 23rem;
   }
+  .container .body-cal .isi .periode input{
+    width: 7rem ;
+  }
+    .container .body-cal .isi .panjang input{
+    width: 7rem ;
+  }
 }
+
